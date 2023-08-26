@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enderjua</h1>
 <h3 align="center">Mobile and Backend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enderjua&label=Profile%20views&color=0e75b6&style=flat" alt="enderjua" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enderjua" alt="enderjua" /></a> </p>
-
 - 🔭 An AI-assisted PassDefender as a BitWarden alternative [PassDefender](github.com/PassDefender)
 
 - 🤝 Collaboration between software codes with the help of artificial intelligence [SyntaxMorph](github.com/Enderjua/SyntaxMorph)
