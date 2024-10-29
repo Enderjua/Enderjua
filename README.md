@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Enderjua</h1>
-<h3 align="center">Mobile and Backend developer from Türkiye</h3>
+<h1 align="center">Hi 👋, I'm Marijua</h1>
+<h3 align="center">Mobile and Backend developer from Antakya</h3>
 
 - 🔭 An AI-assisted PassDefender as a BitWarden alternative [PassDefender](https://www.github.com/PassDefender)
 
